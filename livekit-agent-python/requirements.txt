@@ -1,0 +1,13 @@
+livekit-agents==1.0.11
+livekit-api==1.0.2
+livekit-protocol==1.0.1
+
+livekit-plugins-silero==1.0.11
+livekit-plugins-openai==1.0.11
+livekit-plugins-groq==1.0.11
+livekit-plugins-assemblyai==0.2.3
+livekit-plugins-cartesia==0.4.10
+livekit-plugins-llama-index==0.2.3
+
+llama-index==0.12.30
+python-dotenv
