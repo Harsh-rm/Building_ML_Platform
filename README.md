@@ -44,7 +44,7 @@ cd Building_ML_Platform
 > **TL;DR:**  for https users  
 > Origin: `https://github.com/user-name/repo-name.git`  
 > Protocol: `https://`  
-> Host: `github.com` 
+> Host: `github.com`  
 > Default Port: `443`  
 > User Id & Repo Path: `user-name/repo-name.git`
 
