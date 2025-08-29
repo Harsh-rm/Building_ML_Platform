@@ -7,6 +7,7 @@ $ sudo apt update && sudo apt upgrade -y
 $ sudo apt update
 $ sudo apt install python3.12-venv -y
 $ python -m venv .venv
+--- Run project from here ---
 $ source .venv/bin/activate
 $ python -m pip install --upgrade pip
 $ pip install livekit-agents[groq,silero,turn-detector]~=1.0rc
